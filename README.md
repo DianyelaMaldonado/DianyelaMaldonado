@@ -3,7 +3,7 @@
 _studied web development at_  [Laboratoria](https://www.laboratoria.la/quienessomos)
 
 ## 🪐 A little about my universe as a developer :
-I am a frontend developer, I happily work developing awesome pages as a BFFS techie in [Black Magic Studio](https://heyblackmagic.com/) and apart from that lyrics artist, I am a poetry writer, I like to be constantly learning and this means one never stops learning, I love sharing knowledge and also learning from other developers, my favorite part of development is web ccesibility as I feel that that part is very human, I see life and code in a similar way as everything is a roller coaster of feelings.
+I'm a frontend developer, I happily work developing awesome pages as a BFFS techie in [Black Magic Studio](https://heyblackmagic.com/) and apart from that lyrics artist, I am a poetry writer, I like to be constantly learning and this means one never stops learning, I love sharing knowledge and also learning from other developers, my favorite part of development is web accessibility as I feel that that part is very human, I see life and code in a similar way as everything is a roller coaster of feelings.
 
 ## About my work
 
