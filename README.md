@@ -7,9 +7,9 @@ I'm a frontend developer, I happily work developing awesome pages as a BFFS tech
 
 ## About my work
 
--    ☄️ Currently working with  `JavaScript, React, HTML, CSS, SASS, WGCA, Web Accessibility, SEO, Craft CMS... `
+-    ☄️ Currently working with  `JavaScript, React, HTML, CSS, SASS, WGCA, Web Accessibility, SEO, Craft CMS, Wordpress... `
 -   🧰 Some other tools  `Adobe Photoshop, FIGMA, MapBox...
--   🛰️ Currently learning  `Svelte.js, wordpress, PHP`
+-   🛰️ Currently learning  `React JS`
 
 👽 Even if you come from another galaxy, say hello! 🛸
 
